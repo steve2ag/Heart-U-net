@@ -3,7 +3,7 @@ This work is an application of the U-net architecture for anatomical image segme
 
 The data employed in this work was generated for the:
 **HVSMR 2016**: MICCAI Workshop on Whole-Heart and Great Vessel Segmentation from 3D Cardiovascular MRI in Congenital Heart Disease, which its publicly available at
-http://segchd.csail.mit.edu/index.html
+http://segchd.csail.mit.edu/index.html 
 
 <p align="center">
     <img src=https://drive.google.com/uc?id=1MdXBNYRpX4wjxRr0PF6zQVoiGZhKWrM4 alt="HVSMR"  />
