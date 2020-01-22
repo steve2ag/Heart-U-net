@@ -1,7 +1,7 @@
 # **Heart U-net**
-This work is an application of the U-net architecture for anatomical image segmentation, in particular, for the segmentation of the blood pool and myocardium from a Cardiovascular Magnetic Resonance (CMR) image, as well as a comparison between the original architecture and one in which the convolution operation is replaced by the use of separable convolution.
+Application of the Convolutional Neural Network auto-encoder like architecture (U-net) for Cardiovascular Magnetic Resonance image segmentation, as well as comparison between the original architecture and one in which the convolution operation is replaced by the use of separable convolution, achieving the same performance, but with considerable less parameters to train.
 
-The data employed in this work was generated for the:
+The data employed in this work was generated as part of the:
 **HVSMR 2016**: MICCAI Workshop on Whole-Heart and Great Vessel Segmentation from 3D Cardiovascular MRI in Congenital Heart Disease, which its publicly available at
 http://segchd.csail.mit.edu/index.html 
 
